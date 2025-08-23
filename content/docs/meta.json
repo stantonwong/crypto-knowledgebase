@@ -1,0 +1,18 @@
+{
+  "pages": [
+    "index",
+    "btc",
+    "eth",
+    "xrp",
+    "usdt",
+    "bnb",
+    "sol",
+    "usdc",
+    "steth",
+    "doge",
+    "trx",
+    "ada",
+    "wsteth",
+    "link"
+  ]
+}
